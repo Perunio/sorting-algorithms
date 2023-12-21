@@ -1,0 +1,16 @@
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\bin\Debug\net6.0-windows\SortingAlgorithms.exe
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\bin\Debug\net6.0-windows\SortingAlgorithms.deps.json
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\bin\Debug\net6.0-windows\SortingAlgorithms.runtimeconfig.json
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\bin\Debug\net6.0-windows\SortingAlgorithms.dll
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\bin\Debug\net6.0-windows\SortingAlgorithms.pdb
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.Form1.resources
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.csproj.GenerateResource.cache
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.AssemblyInfoInputs.cache
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.AssemblyInfo.cs
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.csproj.CoreCompileInputs.cache
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.dll
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\refint\SortingAlgorithms.dll
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.pdb
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\SortingAlgorithms.genruntimeconfig.cache
+D:\programowanie\portfolio\Sorting-algorithms\SortingAlgorithms\obj\Debug\net6.0-windows\ref\SortingAlgorithms.dll
